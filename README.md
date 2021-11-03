@@ -9,7 +9,7 @@ In this course, we are going to focus on three learning objectives:
 
 DOM Implementation:
 
-![webpage](https://github.com/Rounak-Ghosh/Javascript-DOM/blob/main/images/img1.png?raw=true)
+![webpage](https://github.com/Rounak-Ghosh/Javascript-DOM/blob/main/images/img1.mp4?raw=true)
 
 ![webpage](https://github.com/Rounak-Ghosh/Javascript-DOM/blob/main/images/img2.png?raw=true)
 
